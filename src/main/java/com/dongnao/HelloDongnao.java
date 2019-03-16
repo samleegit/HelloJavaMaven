@@ -20,7 +20,7 @@ public class HelloDongnao {
 		
 		System.out.println(a.get("helloString"));
 		
-		test.getNum():
+		test.getNum();
 	}
 	
 	public float getNum(){
