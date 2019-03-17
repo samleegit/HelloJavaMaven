@@ -26,7 +26,7 @@ public class HelloDongnao {
 	public float getNum(){
 		
 		System.out.println("chu fa!");
-		float a = 5 / 0;
+		float a = 5 / 2;
 		
 		return a;		
 	}
