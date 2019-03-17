@@ -13,7 +13,7 @@ public class HelloDongnao {
 	
 	public static void main(String[] args) {
 		HelloDongnao test = new HelloDongnao();
-		String helloString = test.sayHello("dongnao");
+		String helloString = test.sayHello("SamLee");
 		
 		JSONObject a = new JSONObject();
 		a.put("helloString", helloString);
